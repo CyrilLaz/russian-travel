@@ -1,0 +1,13 @@
+.header__lang-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration: none;
+  color: #fff;
+  margin-left: 18px;
+}
+
+li:first-child .header__lang-link {
+  text-decoration: underline;
+}

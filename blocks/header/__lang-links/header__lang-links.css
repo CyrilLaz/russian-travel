@@ -1,0 +1,11 @@
+.header__lang-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-self: end;
+}
+
+.header__lang-links:first-child .header__lang-link {
+  text-decoration: underline;
+}

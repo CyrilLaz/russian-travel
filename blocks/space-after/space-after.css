@@ -1,0 +1,15 @@
+.space-after {
+  margin: 0 auto 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .space-after {
+    margin: 0 auto 88px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .space-after {
+    margin: 0 auto 64px;
+  }
+}

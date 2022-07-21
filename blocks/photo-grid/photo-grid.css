@@ -2,20 +2,3 @@
   width: 92.5%; /*max-width: calc(1280px/1184px*100)%;*/
 }
 
-@media screen and (max-width: 1024px) {
-  .photo-grid {
-    width: 90.625%; /*928px/1024px*100%*/
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .photo-grid {
-    width: 93.75%; /*720px/768px*100%*/
-  }
-}
-
-@media screen and (max-width: 350px) {
-  .photo-grid {
-    max-width: 288px;
-  }
-}

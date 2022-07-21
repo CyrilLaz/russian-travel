@@ -3,20 +3,3 @@
   margin: 0 auto;
   }
 
-@media screen and (max-width: 1024px) {
-  .header {
-    width: 90.625%; /*928px/1024px*100%*/
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .header {
-    width: 93.75%; /*720px/768px*100%*/
-  }
-}
-
-@media screen and (max-width: 350px) {
-  .header {
-    max-width: 288px;
-  }
-}

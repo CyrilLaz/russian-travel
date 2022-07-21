@@ -15,3 +15,5 @@
 ---------------------
 ### Мотивация и возможности
 как и что я сделаю будет зависить от степени интерестности задачи, и возможности реализовать свои идеи на текушем уровне навыков.
+
+[https://cyrillaz.github.io/russian-travel/index.html] ![QR код для доступа к ссылке](http://qrcoder.ru/code/?https%3A%2F%2Fcyrillaz.github.io%2Frussian-travel%2Findex.html&4&0)

@@ -5,6 +5,30 @@
   font-size: 72px;
   line-height: 76px;
   color: #FFFFFF;
+  /*justify-self: start;*/
 }
 
+@media screen and (max-width: 768px) {
+  .place__header {
+    font-size: 42px;
+    line-height: 46px;
+    max-width: 328px;
+  }
+}
 
+@media screen and (max-width: 677px) {
+  .place__header {
+    margin-bottom: 32px;
+    font-size: 42px;
+    line-height: 46px;
+    min-width: 288px;
+    justify-self: center;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__header {
+    font-size: 32px;
+    line-height: 35px;
+  }
+}

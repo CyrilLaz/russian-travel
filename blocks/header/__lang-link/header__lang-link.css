@@ -12,7 +12,7 @@ li:first-child .header__lang-link {
   text-decoration: underline;
 }
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 400px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;

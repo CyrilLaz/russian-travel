@@ -3,14 +3,29 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 1.63;
   color: #FFFFFF;
-  width: 100%;
+}
+
+.place__paragraph:nth-of-type(2n) {
+  margin-bottom: 0;
+}
+
+.place__paragraph:only-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+    margin-bottom: 25px;
+  }
 }
 
 @media screen and (max-width: 350px) {
   .place__paragraph {
-    max-width: 288px;
-    justify-self: center;
+    font-size: 16px;
+    line-height: 163%;
   }
 }

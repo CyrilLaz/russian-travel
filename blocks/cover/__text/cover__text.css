@@ -1,0 +1,22 @@
+.cover__text {
+  margin: 245px auto;
+  z-index: 1;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__text {
+    margin: 195px auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__text {
+    margin: 115px auto;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .cover__text {
+    margin: 33px auto;
+  }
+}

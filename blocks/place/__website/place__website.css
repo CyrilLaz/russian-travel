@@ -1,4 +1,14 @@
 .place__website {
   margin: 0 0 48px;
+  /*justify-self: start;*/
   align-self: end;
 }
+
+@media screen and (max-width: 677px) {
+  .place__website {
+    margin-bottom: 32px;
+    min-width: 288px;
+    justify-self: center;
+  }
+}
+

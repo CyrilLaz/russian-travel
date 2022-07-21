@@ -1,3 +1,29 @@
 .place__text-container {
   max-width: 484px;
+  justify-self: end;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__text-container {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__text-container {
+    max-width: 352px;
+  }
+}
+@media screen and (max-width: 677px) {
+  .place__text-container {
+    min-width: 288px;
+    justify-self: center;
+  }
+}
+
+
+@media screen and (max-width: 380px) {
+  .place__text-container {
+    max-width: 288px;
+  }
 }

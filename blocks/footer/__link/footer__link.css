@@ -8,3 +8,11 @@
   color: #FFFFFF;
   text-decoration: none;
 }
+
+@media screen and (max-width: 400px) {
+  .footer__link {
+    padding: 12px 0 12px;
+    font-size: 24px;
+    line-height: 24px;
+  }
+}

@@ -3,6 +3,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
 @import url(../blocks/space-after/space-after.css);
+@import url(../blocks/adaptive-block/adaptive-block.css);
 @import url(../blocks/pointer-cursor/pointer-cursor.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);

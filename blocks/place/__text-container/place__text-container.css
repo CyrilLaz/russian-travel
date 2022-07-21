@@ -14,13 +14,11 @@
     max-width: 352px;
   }
 }
-@media screen and (max-width: 677px) {
+@media screen and (max-width: 712px) {
   .place__text-container {
-    min-width: 288px;
     justify-self: center;
   }
 }
-
 
 @media screen and (max-width: 380px) {
   .place__text-container {

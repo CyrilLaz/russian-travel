@@ -2,7 +2,7 @@
   max-width: 984px;
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 360px) {
   .places {
     width: 100%;
   }

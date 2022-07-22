@@ -1,19 +1,7 @@
 .place__text-container {
   max-width: 484px;
-  justify-self: end;
 }
 
-@media screen and (max-width: 1024px) {
-  .place__text-container {
-    max-width: 456px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .place__text-container {
-    max-width: 352px;
-  }
-}
 @media screen and (max-width: 712px) {
   .place__text-container {
     justify-self: center;
@@ -25,3 +13,4 @@
     max-width: 288px;
   }
 }
+

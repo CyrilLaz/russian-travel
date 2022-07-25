@@ -4,7 +4,6 @@
 @import url(../blocks/page/__container/page__container.css);
 @import url(../blocks/space-after/space-after.css);
 @import url(../blocks/adaptive-block/adaptive-block.css);
-@import url(../blocks/pointer-cursor/Pointer-cursor.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -47,3 +46,4 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/pointer-cursor/Pointer-cursor.css);

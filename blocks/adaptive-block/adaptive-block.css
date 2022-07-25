@@ -1,3 +1,7 @@
+.adaptive-block {
+  width: 92.5%; /*1184px/1280px*100%*/
+}
+
 @media screen and (max-width: 1024px) {
   .adaptive-block {
     width: 90.625%; /*928px/1024px*100%*/
@@ -12,6 +16,6 @@
 
 @media screen and (max-width: 350px) {
   .adaptive-block {
-    width: 90%;
+    width: 90%; /*288px/320px*100%*/
   }
 }

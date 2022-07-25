@@ -3,7 +3,7 @@
   align-self: end;
 }
 
-@media screen and (max-width: 712px) {
+@media screen and (max-width: 674px) {
   .place__website {
     min-width: 288px;
     justify-self: center;

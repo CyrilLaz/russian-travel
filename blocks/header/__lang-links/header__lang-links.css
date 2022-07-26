@@ -5,3 +5,9 @@
   padding: 0;
   align-self: end;
 }
+
+@media screen and (max-width:714px) {
+  .header__lang-links {
+    padding-bottom: 8px;
+  }
+}

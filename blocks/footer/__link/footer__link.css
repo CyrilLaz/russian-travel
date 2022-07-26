@@ -7,6 +7,11 @@
   line-height: 18px;
   color: #FFFFFF;
   text-decoration: none;
+  transition: opacity .5s ease;
+}
+
+.footer__link:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 400px) {

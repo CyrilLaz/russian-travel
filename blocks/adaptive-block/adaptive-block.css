@@ -1,21 +1,21 @@
 .adaptive-block {
-  width: 92.5%; /*1184px/1280px*100%*/
+  width: 92.5vw; /*1184px/1280px*100%*/
 }
 
 @media screen and (max-width: 1024px) {
   .adaptive-block {
-    width: 90.625%; /*928px/1024px*100%*/
+    width: 90.625vw; /*928px/1024px*100%*/
   }
 }
 
 @media screen and (max-width: 768px) {
   .adaptive-block {
-    width: 93.75%; /*720px/768px*100%*/
+    width: 93.75vw; /*720px/768px*100%*/
   }
 }
 
 @media screen and (max-width: 350px) {
   .adaptive-block {
-    width: 90%; /*288px/320px*100%*/
+    width: 90vw; /*288px/320px*100%*/
   }
 }
